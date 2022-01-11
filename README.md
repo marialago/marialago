@@ -23,8 +23,6 @@
     </div>
 </details>
 
-<!-- ![Snake animation](https://github.com/marialago/joaoguilac/blob/output/github-contribution-grid-snake.svg) -->
-
 <!-- #
 💡 <a href="https://github.com/rafaballerini/rafaballerini/blob/main/README.md">Inpiration</a> -->
 
