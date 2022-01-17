@@ -13,7 +13,7 @@
   <a href="https://www.linkedin.com/in/maria-eduarda-fernandes-lago" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </div>
 
- Estatísticas
+<!-- Estatísticas
 ### Github profile
 <details> 
   <summary>📊 GitHub Profile Stats</summary>
@@ -22,6 +22,7 @@
       <a href="https://github-readme-stats.vercel.app/api?username=marialagoc&show_icons=true&theme=react"><img src="https://github-readme-stats.vercel.app/api?username=marialago&show_icons=true&theme=react" alt="Maria Lago's Github Stats" /></a><br/><br/>
     </div>
 </details>
+-->
 
 <!-- #
 💡 <a href="https://github.com/rafaballerini/rafaballerini/blob/main/README.md">Inpiration</a> -->
