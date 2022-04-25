@@ -1,7 +1,7 @@
 # Olá! 👋
 
 - 👩‍💻 Atualmente trabalho como estagiária na empresa Radix Software e Engenharia
-- 📚 Estou cursando Ciências e Tecnologia com ênfase em Mecatrônica na UFRN  
+- 📚 Estou cursando Ciências e Tecnologia com ênfase em Computação na UFRN  
 - 🤖 Faço parte do projeto voluntário Um Robô por Aluno
 - ✨ Estudando Python, JavaScript e SQL
 
